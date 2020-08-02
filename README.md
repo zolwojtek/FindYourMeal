@@ -7,7 +7,7 @@ Library enabling storing and managing meal recipes.
  - NUnit
  - Autofac
  
-##P lanned functionalities: ##
+## Planned functionalities: ##
  - creating and storing recipies
  - searching for recipe based on chosen criterias:
     - type of meal (breakfast/lunch/supper/snack)
